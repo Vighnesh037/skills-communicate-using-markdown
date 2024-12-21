@@ -1,0 +1,75 @@
+
+
+## 1. Headings  
+
+
+```markdown
+# H1 Heading  
+## H2 Heading  
+### H3 Heading  
+#### H4 Heading  
+##### H5 Heading  
+###### H6 Heading  
+
+2. Text Formatting
+
+	•	Bold: *bold text*
+	•	Italic: italic text
+	•	Strikethrough: ~strikethrough~
+
+Y
+**Bold and Italic**
+
+3. Lists
+
+Ordered List:
+
+1. First item  
+2. Second item  
+3. Third item  
+
+Unordered List:
+
+- First item  
+- Second item  
+- Third item  
+
+4. Links and Images
+
+Link:
+
+[Click here to learn more about Markdown](https://commonmark.org/)  
+
+Image:
+
+![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)  
+
+5. Code Blocks
+
+Inline code:
+
+print("Hello, Markdown!")
+
+Block code:
+
+def greet():  
+    print("Hello, Markdown!")  
+greet()  
+
+6. Tables
+
+| Name    | Age | City       |  
+|---------|-----|------------|  
+| Alice   | 25  | New York   |  
+| Bob     | 30  | San Francisco |  
+| Charlie | 35  | London     |  
+
+7. Blockquotes
+
+> This is a blockquote.  
+> You can use it to emphasize content.  
+
+8. Horizontal Rules
+
+---  
+
